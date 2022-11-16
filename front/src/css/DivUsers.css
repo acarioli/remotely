@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.Portada {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  text-align: center;
+  position: relative;
+}
+
+.card {
+    width: 30vw;
+  }
+
+  .cardbox{
+    align-items: center;
+    margin: 50px;
+  }

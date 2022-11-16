@@ -1,0 +1,42 @@
+#label {
+    font-size: medium;
+    font-stretch: condensed;
+    text-shadow: 10px;
+    
+  }
+  
+  
+  #grp {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: 200;
+    font-size: x-large;
+
+  }
+  
+  #control {
+    width: 200px;
+    height: 50px;
+    margin: auto;
+
+  }
+  
+  #button {
+    background-color: #FD4E22;
+    border-color: white;
+    border-style: outset;
+  
+  }
+  
+  #avatar {
+      background-color: #FD4E22;
+  }
+  
+  #title {
+      padding: 5px;
+  }
+  
+  #form {
+      align-items: flex-start;
+      margin: auto;
+
+  }

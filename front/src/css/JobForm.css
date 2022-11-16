@@ -1,0 +1,68 @@
+#card1{
+    background-image: url("https://i.postimg.cc/PJkd1Qxq/Dise-o-sin-t-tulo-6.png");
+    background-size: cover;
+    border: 0;
+    width: 100%;
+}
+
+#card2{
+    background-image: url("https://i.postimg.cc/dQ8swpHZ/Dise-o-sin-t-tulo-7.png");
+    background-size: cover;
+    border: 0;
+    width: 100%;
+}
+
+#card3{
+    background-image: url("https://i.postimg.cc/mrz4q51D/Dise-o-sin-t-tulo-8.png");
+    background-size: cover;
+    border: 0;
+    width: 100%;
+}
+#label {
+    font-size: medium;
+    font-stretch: condensed;
+    text-shadow: 10px;
+}
+
+#grp {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: 200;
+    font-size: x-large;
+    
+
+}
+
+#control {
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    align-items: center;
+
+}
+
+#button {
+    background-color: #FD4E22;
+    border-color: white;
+    border-style: outset;
+    margin: 30px;
+    padding: 20%;
+
+}
+
+#avatar {
+    background-color: #FD4E22;
+    justify-content: center;
+
+}
+
+#title {
+    padding: 5px;
+    align-items: center;
+    
+}
+
+#form {
+    align-items: flex-start;
+    margin: auto;
+    
+}
